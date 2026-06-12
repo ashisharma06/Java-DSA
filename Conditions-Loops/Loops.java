@@ -53,3 +53,5 @@ public class Loops {
         } while (n <= 5);
     }
 }
+
+// Practicing while and for loops
